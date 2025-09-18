@@ -12,6 +12,9 @@ Useful/
 **/output/
 **/mayaoutput/
 
+# clang cache
+.cache/
+
 # VIM Swapfiles
 *.swp
 
